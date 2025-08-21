@@ -164,10 +164,3 @@ for name, df in dataframes.items():
 con.close()
 ```
 
----
-
-With this pipeline, you can generate **customer insights, card risk metrics, and transaction behavior trends** in a reproducible way.
-
----
-
-Kamu mau aku tambahin **contoh gambar visualisasi** (misalnya pie chart atau bar chart kecil) ke README biar lebih menarik, atau biarkan teks aja biar simpel?
